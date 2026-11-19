@@ -1,0 +1,6 @@
+{
+  "name": "100 Days Challenge",
+  "description": "A native Android educational productivity app guiding students through a personalized 100-day academic and skill-building challenge with marks tracking, interactive charts, offline Room cache, and Firebase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
